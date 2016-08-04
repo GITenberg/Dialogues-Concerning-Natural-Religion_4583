@@ -1,0 +1,56 @@
+_repo: Dialogues-Concerning-Natural-Religion_4583
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hume, David
+    birthdate: 1711
+    deathdate: 1776
+    gutenberg_agent_id: '1440'
+    url: http://www.gutenberg.org/2009/agents/1440
+    wikipedia: http://en.wikipedia.org/wiki/David_Hume
+description: "Dialogues Concerning Natural Religion is a philosophical work by the\
+  \ Scottish philosopher David Hume. Through dialogue, three philosophers named Demea,\
+  \ Philo, and Cleanthes debate the nature of God's existence. Whether or not these\
+  \ names reference specific philosophers, ancient or otherwise, remains a topic of\
+  \ scholarly dispute. While all three agree that a god exists, they differ sharply\
+  \ in opinion on God's nature or attributes and how, or if, humankind can come to\
+  \ knowledge of a deity.\nIn the Dialogues, Hume's characters debate a number of\
+  \ arguments for the existence of God, and arguments whose proponents believe through\
+  \ which we may come to know the nature of God. Such topics debated include the argument\
+  \ from design—for which Hume uses a house—and whether there is more suffering or\
+  \ good in the world (argument from evil).\nHume started writing the Dialogues in\
+  \ 1750 but did not complete them until 1776, shortly before his death. They are\
+  \ based partly on Cicero's De Natura Deorum. The Dialogues were published posthumously\
+  \ in 1779, originally with neither the author's nor the publisher's name.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Philosophy
+- Paganism
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4583'
+  wikidata: Q965564
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Natural theology -- Early works to 1800'
+- !lcsh 'Religion -- Early works to 1800'
+- GITenberg
+title: Dialogues Concerning Natural Religion
+url: http://www.gutenberg.org/ebooks/4583
+wikipedia:
+- https://fi.wikipedia.org/wiki/Keskusteluja_luonnollisesta_uskonnosta
+- https://fr.wikipedia.org/wiki/Dialogues_sur_la_religion_naturelle
+- https://id.wikipedia.org/wiki/Dialogues_Concerning_Natural_Religion
+- https://pt.wikipedia.org/wiki/Di%C3%A1logos_sobre_a_Religi%C3%A3o_Natural
+- https://fa.wikipedia.org/wiki/%DA%AF%D9%81%D8%AA%DA%AF%D9%88%D9%87%D8%A7_%D8%AF%D8%B1_%D8%A8%D8%A7%D8%A8_%D8%AF%DB%8C%D9%86_%D8%B7%D8%A8%DB%8C%D8%B9%DB%8C
+- https://de.wikipedia.org/wiki/Dialoge_%C3%BCber_nat%C3%BCrliche_Religion
+- https://es.wikipedia.org/wiki/Di%C3%A1logos_sobre_la_religi%C3%B3n_natural
+- https://en.wikipedia.org/wiki/Dialogues_Concerning_Natural_Religion
+- https://sv.wikipedia.org/wiki/Dialogues_Concerning_Natural_Religion
+- https://is.wikipedia.org/wiki/Samr%C3%A6%C3%B0ur_um_tr%C3%BAarbr%C3%B6g%C3%B0in
+- https://gl.wikipedia.org/wiki/Dialogues_Concerning_Natural_Religion
